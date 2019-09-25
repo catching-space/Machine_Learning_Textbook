@@ -6,3 +6,4 @@ python-machine-learning-book-2nd-edition/
 *.simple_model.h5
 *.simple_weights.h5
 sentiment_rnn_logs/
+mnist/
